@@ -1,6 +1,5 @@
-#introduction
-name = "Hi, my name is #{Jarbi}."
-
+def introduction
+  
 
 
 
